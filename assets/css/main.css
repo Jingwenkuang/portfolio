@@ -3996,4 +3996,22 @@ input, select, textarea {
 
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
-	}
+  }
+  
+  /* about me */
+div .profile > img {
+  width: 31%;
+  border-radius: 50%;
+  box-shadow: 0 0 5px white;
+}
+
+/*contact me*/
+.contact {
+  margin: 0px;
+}
+
+img.icons {
+  width: 28px;
+  margin-right: 2%;
+  border-radius: 20%;
+}
