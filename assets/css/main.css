@@ -4031,5 +4031,8 @@ img.icons {
 .wrapper.style4{
   background-image: url("images/lake_tahoe.jpg");
   background-repeat: no-repeat;
+  background-size: cover;
   background-position: right;
+  background-color: transparent
 }
+
