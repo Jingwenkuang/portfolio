@@ -4015,3 +4015,8 @@ img.icons {
   margin-right: 2%;
   border-radius: 20%;
 }
+
+
+.spotlight .content a {
+  margin-right: 22px;
+}
