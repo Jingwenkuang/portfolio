@@ -2682,7 +2682,8 @@ input, select, textarea {
 
 			.spotlight .image img {
 				border-radius: 0;
-				width: 100%;
+        width: 100%;
+        border: 6px solid white;
 			}
 
 		.spotlight .content {
@@ -2817,7 +2818,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #5582a7;
 			color: #c8ece9;
 		}
 
@@ -3351,7 +3352,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #5582a7;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -4019,4 +4020,16 @@ img.icons {
 
 .spotlight .content a {
   margin-right: 22px;
+}
+
+#banner {
+  background-image: url("images/lake_tahoe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrapper.style4{
+  background-image: url("images/lake_tahoe.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
 }
