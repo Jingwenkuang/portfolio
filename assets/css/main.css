@@ -4036,3 +4036,12 @@ img.icons {
   background-color: transparent
 }
 
+#footer{
+  background-image: url("images/lake_tahoe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  opacity: 0.4;
+  
+}
+
