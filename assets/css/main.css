@@ -3896,15 +3896,19 @@ input, select, textarea {
 		}
 
 			#footer .icons a {
-				color: rgba(255, 255, 255, 0.5);
+        color: #fff;
+        font-size: 30px;
+				/* color: rgba(255, 255, 255, 0.5); */
 			}
 
 				#footer .icons a:hover {
-					color: #fff;
+          /* color: #fff; */
+          color: rgba(255, 255, 255, 0.5);
 				}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.5);
+      color: #fff;
+			/* color: rgba(255, 255, 255, 0.5); */
 			font-size: 0.8em;
 			letter-spacing: 0.225em;
 			list-style: none;
@@ -4041,7 +4045,7 @@ img.icons {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
-  opacity: 0.4;
+  opacity: 0.2;
   
 }
 
